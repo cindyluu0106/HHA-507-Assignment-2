@@ -1,0 +1,68 @@
+"ORDER_ID","CUSTOMER_NAME","DRINK_NAME","TOTAL_AMOUNT","CATEGORY","PRICE_DRINK"
+1,"John Doe","Iced Latte",5.5,"Small",1.24
+1,"John Doe","Iced Latte",5.5,"Small",1.24
+1,"John Doe","Iced Latte",5.5,"Small",1.24
+1,"John Doe","Iced Latte",3.5,"Small",1.24
+2,"Jane Doe","Cappucino",9,"Small",4.5
+2,"Jane Doe","Cappucino",9,"Large",6.5
+2,"Jane Doe","Cappucino",9,"Large",6.5
+2,"Jane Doe","Cappucino",9,"Large",6.5
+2,"Jane Doe","Cappucino",9,"Large",6.5
+2,"Jane Doe","Cappucino",9,"Medium",5.5
+2,"Jane Doe","Cappucino",9,"Medium",5.5
+2,"Jane Doe","Cappucino",9,"Medium",5.5
+2,"Jane Doe","Cappucino",9,"Medium",5.5
+2,"Jane Doe","Cappucino",9,"Small",4.5
+2,"Jane Doe","Cappucino",9,"Small",4.5
+2,"Jane Doe","Cappucino",9,"Small",4.5
+3,"Alex Grape","Macchiato",4,"Small",3
+3,"Alex Grape","Macchiato",4,"Large",5
+3,"Alex Grape","Macchiato",4,"Large",5
+3,"Alex Grape","Macchiato",4,"Medium",4
+3,"Alex Grape","Macchiato",4,"Medium",4
+3,"Alex Grape","Macchiato",4,"Small",3
+4,"Cherry Nescafe","Chai Latte",27.5,"Small",5.5
+4,"Cherry Nescafe","Chai Latte",27.5,"Large",7.5
+4,"Cherry Nescafe","Chai Latte",27.5,"Large",7.5
+4,"Cherry Nescafe","Chai Latte",27.5,"Medium",6.5
+4,"Cherry Nescafe","Chai Latte",27.5,"Medium",6.5
+4,"Cherry Nescafe","Chai Latte",27.5,"Small",5.5
+5,"Doe Deer","Iced Americano",11.5,"Small",3.5
+5,"Doe Deer","Iced Americano",11.5,"Large",5.5
+5,"Doe Deer","Iced Americano",11.5,"Large",5.5
+5,"Doe Deer","Iced Americano",11.5,"Medium",4.5
+5,"Doe Deer","Iced Americano",11.5,"Medium",4.5
+5,"Doe Deer","Iced Americano",11.5,"Small",3.5
+6,"Cal Bean","Iced Latte",11,"Small",1.24
+6,"Alex Dane","Orange Juice",24.5,"Large",5.5
+6,"Alex Dane","Orange Juice",24.5,"Large",5.5
+6,"Alex Dane","Orange Juice",24.5,"Medium",4.5
+6,"Alex Dane","Orange Juice",24.5,"Medium",4.5
+6,"Alex Dane","Orange Juice",24.5,"Small",3.5
+6,"Alex Dane","Orange Juice",24.5,"Small",3.5
+6,"Cal Bean","Iced Latte",11,"Small",1.24
+7,"Bruno Saturn","Water",3,"Small",1.5
+7,"Bruno Saturn","Water",3,"Large",3.5
+7,"Bruno Saturn","Water",3,"Large",3.5
+7,"Bruno Saturn","Water",3,"Medium",2.5
+7,"Bruno Saturn","Water",3,"Medium",2.5
+7,"Bruno Saturn","Water",3,"Small",1.5
+8,"Cindy Luu","Black Coffee",2.5,"Small",2.5
+8,"Cindy Luu","Black Coffee",2.5,"Large",4.5
+8,"Cindy Luu","Black Coffee",2.5,"Large",4.5
+8,"Cindy Luu","Black Coffee",2.5,"Medium",3.5
+8,"Cindy Luu","Black Coffee",2.5,"Medium",3.5
+8,"Cindy Luu","Black Coffee",2.5,"Small",2.5
+9,"Jennifer Luu","Chai Latte",7.5,"Small",5.5
+9,"Jennifer Luu","Chai Latte",7.5,"Large",7.5
+9,"Jennifer Luu","Chai Latte",7.5,"Large",7.5
+9,"Jennifer Luu","Chai Latte",7.5,"Medium",6.5
+9,"Jennifer Luu","Chai Latte",7.5,"Medium",6.5
+9,"Jennifer Luu","Chai Latte",7.5,"Small",5.5
+10,"Parker Butters","Cappucino",4.5,"Small",4.5
+10,"Parker Butters","Cappucino",4.5,"Small",4.5
+10,"Parker Butters","Cappucino",4.5,"Medium",5.5
+10,"Parker Butters","Cappucino",4.5,"Medium",5.5
+10,"Parker Butters","Cappucino",4.5,"Large",6.5
+10,"Parker Butters","Cappucino",4.5,"Large",6.5
+11,"Karen Dover","Ice Latte",5.5,,
